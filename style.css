@@ -1,0 +1,37 @@
+.top{
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/017/457/394/small/simple-background-with-gradient-shape-green-vector.jpg);
+    background-size: cover;
+    width: auto;
+    height:750px;
+}
+.nav-item{
+    font-size: 20px;
+}
+.content1{
+    font-size: 50px;
+    color: white;
+    margin-top: 200px;
+    margin-left: 150px;
+}
+.btn1{
+    background-color: rgba(0, 0, 0,alpha);
+    margin-left: 150px;
+    border-radius: 5px;
+}
+
+.images{
+    /* border: solid; */
+    background-color: black;
+    color: white;
+    width: 1500px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 0px;
+    padding-left: 100px;
+    justify-content: space-between;
+}
+.imgs{
+    width: 300px;
+    height: 250px;
+    
+}
